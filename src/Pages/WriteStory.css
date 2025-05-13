@@ -1,0 +1,12 @@
+.write-story-page {
+  max-width: 700px;
+  margin: auto;
+}
+
+.form-box label {
+  font-weight: 500;
+}
+
+.form-box textarea {
+  resize: none;
+}

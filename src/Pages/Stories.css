@@ -1,0 +1,18 @@
+.story-card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease;
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+.card-text {
+  color: #555;
+}
+.cardBG{
+    height: 500px !important;
+}
+.cardBG .card img{
+    height: 65% !important;
+}

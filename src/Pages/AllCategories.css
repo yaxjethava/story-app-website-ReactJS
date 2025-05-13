@@ -1,0 +1,15 @@
+.category-box {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.category-box:hover .category-card {
+  background-color: #007bff;
+  color: white;
+  transform: translateY(-4px);
+}
+
+.category-card {
+  transition: 0.3s;
+  cursor: pointer;
+}

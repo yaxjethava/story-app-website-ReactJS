@@ -1,0 +1,12 @@
+.hero-section {
+  background: linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.3)), 
+              url('https://static.vecteezy.com/system/resources/thumbnails/049/639/234/small_2x/vintage-book-open-on-old-wooden-table-with-clipping-path-open-book-blank-on-old-wooden-background-book-with-blank-pages-photo.jpg') center/cover no-repeat;
+  min-height: 80vh;
+}
+.card{
+    height: 500px;
+}
+.card:hover {
+  transform: scale(1.02);
+  transition: 0.3s ease-in-out;
+}

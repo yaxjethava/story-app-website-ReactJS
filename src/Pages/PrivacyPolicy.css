@@ -1,0 +1,15 @@
+.privacy-policy {
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.8;
+}
+
+.privacy-policy h4 {
+  margin-top: 30px;
+  font-weight: 600;
+}
+
+.privacy-policy ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
